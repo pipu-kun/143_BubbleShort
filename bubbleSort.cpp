@@ -76,6 +76,12 @@ void display() {
     cout << endl;
 }
 
-//test
+int main() {
+    input();
+    bubbleShortArray();
+    display();
 
+    system("pause");
+    return 0;
+}
 
